@@ -25,5 +25,9 @@ Find out more about the hacks here:
 
 ### My favorite generated pictures:
 
-<img align="left" width="100" height="100" src="samples/ep163.png">
+<img align="left" width="300" height="300" src="samples/ep163.png">
 Epoch 163, the generated face looks like the chicken version of the simposons :)
+
+<img align="left" width="300" height="300" src="samples/ep141.png">
+Epoch 141, It has two mounths :)
+
