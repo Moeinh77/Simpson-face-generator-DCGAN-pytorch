@@ -26,7 +26,7 @@ Find out more about the hacks here:
 ### My favorite generated pictures:
 <p align="center">
 <img align="center" width="200" height="200" src="samples/ep163.png">
-* The generated face looks like
+* The generated face looks like<br>
   the chicken version of the simposons :)
 </p>
 
