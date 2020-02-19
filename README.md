@@ -35,7 +35,7 @@ Find out more about the hacks here:
 
 * The generated face looks like the chicken version of the simposons :)
 * Long fore-head :)
-* It has two mouths :)
+* Mouth on the neck :)
 * No mouth !
 * Pre-history look !
 * Father+Son
