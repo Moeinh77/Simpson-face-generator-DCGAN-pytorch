@@ -23,3 +23,7 @@ Find out more about the hacks here:
 * https://medium.com/@utk.is.here/keep-calm-and-train-a-gan-pitfalls-and-tips-on-training-generative-adversarial-networks-edd529764aa9
 * https://github.com/soumith/ganhacks
 
+### My favorite generated pictures:
+
+<img align="left" width="100" height="100" src="samples/ep163.png">
+Epoch 163, the generated face looks like the chicken version of the simposons :)
