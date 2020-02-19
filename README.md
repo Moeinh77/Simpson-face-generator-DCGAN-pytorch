@@ -1,2 +1,2 @@
-## Generating simpson faces using Deep Convolutional Generative Networks, written in PyTorch.
+## Generating simpson faces using Deep Convolutional Generative Networks.
 
