@@ -1,6 +1,8 @@
 ## Generating simpson faces using Deep Convolutional Generative Adversarial Networks.
 
-![](samples/short.gif)
+<p align="center">
+  <img width="460" height="300" src="samples/short.gif">
+</p>
 
 Dataset: https://www.kaggle.com/kostastokis/simpsons-faces
 
