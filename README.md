@@ -26,8 +26,7 @@ Find out more about the hacks here:
 ### My favorite generated pictures:
 
 <img align="center" width="200" height="200" src="samples/ep163.png">
-* The generated face looks like the chicken version of the simposons :)
-=========================================================================
+
 
 <img align="center" width="200" height="200" src="samples/ep141.png">
 * It has two mounths :)
