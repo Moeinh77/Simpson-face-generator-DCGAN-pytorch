@@ -1,5 +1,7 @@
 ## Generating simpson faces using Deep Convolutional Generative Adversarial Networks.
 
+![](samples/short.gif)
+
 Dataset: https://www.kaggle.com/kostastokis/simpsons-faces
 
 There were a lot of tricky details for getting the DCGAN generate some sharp looking pictures. Some of the hacks I used:
