@@ -1,5 +1,5 @@
 ## Generating simpson faces using Deep Convolutional Generative Adversarial Networks.
-### Epoch 1 to 300 in one look:
+### Epoch 1 to 350 in one look:
 <p align="center">
   <img width="300" height="300" src="samples/short.gif">
 </p>
