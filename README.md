@@ -1,10 +1,12 @@
 ## Generating simpson faces using Deep Convolutional Generative Adversarial Networks.
-
+### Epoch 1 to 300 briefly:
 <p align="center">
   <img width="300" height="300" src="samples/short.gif">
 </p>
 
 Dataset: https://www.kaggle.com/kostastokis/simpsons-faces
+
+### How to make the DCGAN work:
 
 There were a lot of tricky details for getting the DCGAN generate some sharp looking pictures. Some of the hacks I used:
 
@@ -16,7 +18,7 @@ There were a lot of tricky details for getting the DCGAN generate some sharp loo
 * Using the 0.0002 leanring rate for both generator and discriminator.
 * Using small batch size of 32.
 
-Read the code for other hacks. Also, find out more about the hacks here:
+Find out more about the hacks here:
 * https://machinelearningmastery.com/how-to-code-generative-adversarial-network-hacks/
 * https://medium.com/@utk.is.here/keep-calm-and-train-a-gan-pitfalls-and-tips-on-training-generative-adversarial-networks-edd529764aa9
 * https://github.com/soumith/ganhacks
