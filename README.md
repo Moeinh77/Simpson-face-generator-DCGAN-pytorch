@@ -27,7 +27,7 @@ Find out more about the hacks here:
 
 <img align="left" width="300" height="300" src="samples/ep163.png">
 Epoch 163, the generated face looks like the chicken version of the simposons :)
-
-<img align="right" width="300" height="300" src="samples/ep141.png">
+<br>
+<img align="left" width="300" height="300" src="samples/ep141.png">
 Epoch 141, It has two mounths :)
 
