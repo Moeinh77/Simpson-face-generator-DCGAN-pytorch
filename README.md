@@ -25,7 +25,7 @@ Find out more about the hacks here:
 
 ### My favorite generated pictures:
 
-<p align="center">
+<p align="left">
 <img align="center" width="100" height="100" src="samples/ep163.png">
 * The generated face looks like the chicken version of the simposons :)
 </p>
@@ -38,7 +38,7 @@ Find out more about the hacks here:
 </p>
 =========================================================================
 
-<p align="center">
+<p align="right">
 <img align="center" width="100" height="100" src="samples/ep332.png">
 * Long fore-head :)
 </p>
