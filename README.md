@@ -27,11 +27,12 @@ Find out more about the hacks here:
 
 <img align="center" width="200" height="200" src="samples/ep163.png">
 * The generated face looks like the chicken version of the simposons :)
-
+=========================================================================
 
 <img align="center" width="200" height="200" src="samples/ep141.png">
 * It has two mounths :)
+=========================================================================
 
 <img align="center" width="200" height="200" src="samples/ep332.png">
 * Long fore-head :)
-
+=========================================================================
