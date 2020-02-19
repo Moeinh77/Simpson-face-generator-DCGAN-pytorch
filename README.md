@@ -24,18 +24,22 @@ Find out more about the hacks here:
 * https://github.com/soumith/ganhacks
 
 ### My favorite generated pictures:
+
 <p align="center">
-<img align="center" width="200" height="200" src="samples/ep163.png">
-* The generated face looks like<br>
-  the chicken version of the simposons :)
+<img align="center" width="100" height="100" src="samples/ep163.png">
+* The generated face looks like the chicken version of the simposons :)
 </p>
 
 =========================================================================
 
-<img align="center" width="200" height="200" src="samples/ep141.png">
+<p align="center">
+<img align="center" width="100" height="100" src="samples/ep141.png">
 * It has two mounths :)
+</p>
 =========================================================================
 
-<img align="center" width="200" height="200" src="samples/ep332.png">
+<p align="center">
+<img align="center" width="100" height="100" src="samples/ep332.png">
 * Long fore-head :)
+</p>
 =========================================================================
