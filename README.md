@@ -33,7 +33,7 @@ Find out more about the hacks here:
 <img align="center" width="100" height="100" src="samples/ep300.png">
 <img align="center" width="100" height="100" src="samples/ep278.png">
 
-* The generated face looks like the chicken version of the simposons :)
+* The one on the left looks like the chicken version of the simposons :)
 * Long fore-head :)
 * Mouth on the neck :)
 * No mouth !
