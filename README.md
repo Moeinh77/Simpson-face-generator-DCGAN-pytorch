@@ -10,7 +10,7 @@ Dataset: https://www.kaggle.com/kostastokis/simpsons-faces
 
 There were a lot of tricky details for getting the DCGAN generate some sharp looking pictures. Some of the hacks I used:
 
-* Using 0 as the label for the true class and 1 for fake labels for optimizer. Helps the optimizer to make betterupdates at the first coupleof epochs.
+* Using 0 as the label for the true class and 1 for fake labels for optimizer. Helps the optimizer to make better updates at the first couple of epochs.
 * Smoothing the labels. Instead of 1 i used random numbers in range of [0.7,1.2] and instead of 0 range of [0,0.3]. Prevents the optimizer from reaching loss 0.
 * Using noisy labels. I flipped the labels of 5% of the data. 
 * Not using any pooling layer. Down sampling is done using stride of 2 in each convolutional layer.
