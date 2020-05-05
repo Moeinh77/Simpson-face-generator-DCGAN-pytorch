@@ -27,16 +27,12 @@ Find out more about the hacks here:
 
 <p align="left">
 <img align="center" width="100" height="100" src="samples/ep163.png">
-<img align="center" width="100" height="100" src="samples/ep332.png">
 <img align="center" width="100" height="100" src="samples/ep141.png">
- <img align="center" width="100" height="100" src="samples/ep205.png">
 <img align="center" width="100" height="100" src="samples/ep300.png">
 <img align="center" width="100" height="100" src="samples/ep278.png">
 
 * The one on the left looks like the chicken version of the simposons :)
-* Long fore-head :)
-* Mouth on the neck :)
-* No mouth !
-* Pre-history look !
-* Father+Son
+* 2 Mouths one on the neck :)
+* Pre-historic look !
+* Father+Son (Punk homer)
 </p>
