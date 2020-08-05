@@ -1,4 +1,6 @@
 ## Generating simpson faces using Deep Convolutional Generative Adversarial Networks.
+
+GANs are a framework for teaching a DL model to capture the training data’s distribution so we can generate new data from that same distribution. I trained deep convolutional generative adversarial networks on a dataset of simpson faces to generate new faces based on the training samples. 
 ### Epoch 1 to 350 in one look:
 <p align="center">
   <img width="300" height="300" src="samples/short.gif">
