@@ -6,7 +6,14 @@ GANs are a framework for teaching a DL model to capture the training data’s di
   <img width="300" height="300" src="samples/short.gif">
 </p>
 
-Dataset: https://www.kaggle.com/kostastokis/simpsons-faces
+
+### Dataset:
+https://www.kaggle.com/kostastokis/simpsons-faces
+9877 Simpsons faces, extracted from seasons 25-28, all in 200x200 resolution and each centered on a single face.
+
+### Model:
+The model includes a disciminator model which is made of convolution stages (Conv2d, BatchNorm, LeakyRelu) and a generator model with transpose convolution stages (TransposeConv2d, BatchNorm, LeakyRelu). The disciminator has 5 of such stages each with different number of convlayers and a fully connected layer at the end, and the generator is made up of 4 such transpose convolution stages and a convolution stage at the end. The negative slope of LeakyRelu is 0.2.
+
 
 ### How to make the DCGAN work:
 
